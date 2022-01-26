@@ -1,5 +1,7 @@
 # Introduction
 
+[![Git](https://app.soluble.cloud/api/v1/public/badges/672678c5-14d9-4991-90fe-7dfdab7b7398.svg?orgId=560723739106)](https://app.soluble.cloud/repos/details/github.com/bhuvi11/dep-scan?orgId=560723739106)  
+
 ```bash
   ___            _____ _                    _
  / _ \          |_   _| |                  | |
